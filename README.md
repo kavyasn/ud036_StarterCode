@@ -1,12 +1,12 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 
-#About the project 
+# About the project 
 
 In this Project We have created a Movie Trailer Website.
 In order to do this I have created two files 
-1.media.py
-2.Entertainment_center.py
+1. media.py
+2. Entertainment_center.py
 
 In "Entertainment_center.py" file a constructor "media.Movie" is called and list of six movies "DDLJ", "taare zameen par", "ice age", "kung fu panda", "madagaskar" and " I am legend" is called with instances which includes respective "Movie Title", "Storyline", " Poster image" and "Youtube trailer links". Hence movie objects are instantiated. Movies list is stored in a list and "open_movies_page" function is called which takes these movies as input in order to build the HTML file.
 
