@@ -16,3 +16,11 @@ The "fresh_tomatoes.py" file contains a "open_movies_page" function. It takes th
 
 __Output:__ " On Clicking the poster image of the movie in the "fresh_tomatoes.html" the youtube trailer of the movie is displayed.
 
+## Steps required to Run the application are as follows:
+
+1. Install Python.
+2. Create data structure to store list of movies with the details "Movie Title, Story line, Poster image and Youtubetrailer link" which is saved as "Entertainment_center.py"
+3. Create a file called "media.py" which contains a class called "Movie()" where the properties of the movie are encapsulated.
+4. "fork" the repository and create a copy of "fresh_tomatoes.py"  to work locally into the PC.
+5. The fresh_tomatoes.py module has module called "open_movies_page" which takes movies list as input and gives the HTML files with the list of poster images of movie as the output.
+6. On clicking any of the poster images the youtube trailer link of the respective movie must be displayed.
